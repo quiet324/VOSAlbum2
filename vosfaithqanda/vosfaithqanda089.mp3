@@ -1,0 +1,915 @@
+
+
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="zh-TW" prefix="og: http://ogp.me/ns#" class="ie8"> <![endif]-->
+<!--[if !IE]><!--> <html lang="zh-TW" prefix="og: http://ogp.me/ns#"> <!--<![endif]-->
+
+<head>
+	<meta charset="UTF-8">
+	<title>HOME - 救恩之聲 Voice of Salvation</title>	
+	
+	
+	<!-- Mobile Specific Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.vos.org.tw/xmlrpc.php">
+
+	
+	<!--[if lt IE 9]>
+	<script src="http://www.vos.org.tw/wp-content/themes/newsmag/js/html5.js"></script>
+	<![endif]-->
+
+
+<!-- This site is optimized with the Yoast SEO plugin v4.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.vos.org.tw/" />
+<meta property="og:locale" content="zh_TW" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="HOME - 救恩之聲 Voice of Salvation" />
+<meta property="og:description" content="HOME" />
+<meta property="og:url" content="http://www.vos.org.tw/" />
+<meta property="og:site_name" content="救恩之聲 Voice of Salvation" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="HOME" />
+<meta name="twitter:title" content="HOME - 救恩之聲 Voice of Salvation" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.vos.org.tw\/","name":"\u6551\u6069\u4e4b\u8072 Voice of Salvation","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.vos.org.tw\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.vos.org.tw\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.5"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.vos.org.tw/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.7' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='http://www.vos.org.tw/wp-content/plugins/download-manager/assets/font-awesome/css/font-awesome.min.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdm-bootstrap-css'  href='http://www.vos.org.tw/wp-content/plugins/download-manager/assets/bootstrap/css/bootstrap.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdm-front-css'  href='http://www.vos.org.tw/wp-content/plugins/download-manager/assets/css/front.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='newsmag-style-css'  href='http://www.vos.org.tw/wp-content/themes/newsmag/style.css?ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFontsRoboto-css'  href='//fonts.googleapis.com/css?family=Roboto+Slab&#038;ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFontsPT-css'  href='//fonts.googleapis.com/css?family=PT+Sans&#038;ver=4.7.5' type='text/css' media='all' />
+<link rel='stylesheet' id='googleFontsOpen-css'  href='//fonts.googleapis.com/css?family=Open+Sans&#038;ver=4.7.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.vos.org.tw/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/plugins/download-manager/assets/js/front.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/plugins/download-manager/assets/js/chosen.jquery.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/hoverIntent.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/jquery.mousewheel.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/page.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/jquery.jscrollpane.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/carousel.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/modernizr.js?ver=4.7.5'></script>
+<meta name="generator" content="WordPress Download Manager 2.9.43" />
+<link rel='https://api.w.org/' href='http://www.vos.org.tw/?rest_route=/' />
+<link rel='shortlink' href='http://www.vos.org.tw/' />
+<link rel="alternate" type="application/json+oembed" href="http://www.vos.org.tw/?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fwww.vos.org.tw%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://www.vos.org.tw/?rest_route=%2Foembed%2F1.0%2Fembed&#038;url=http%3A%2F%2Fwww.vos.org.tw%2F&#038;format=xml" />
+
+        <script>
+            var wpdm_site_url = 'http://www.vos.org.tw/';
+            var wpdm_home_url = 'http://www.vos.org.tw/';
+            var ajax_url = 'http://www.vos.org.tw/wp-admin/admin-ajax.php';
+        </script>
+
+
+        	<script id="wpcp_disable_Right_Click" type="text/javascript">
+	//<![CDATA[
+	document.ondragstart = function() { return false;}
+	/* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Disable context menu on images by GreenLava Version 1.0
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+	    function nocontext(e) {
+	       return false;
+	    }
+	    document.oncontextmenu = nocontext;
+	//]]>
+	</script>
+<link rel="shortcut icon" href="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSWEBSITEICON1-553f1a17v1_site_icon.png"> <style>
+
+	                                            
+ </style> 
+<!-- BEGIN GADWP v5.0.0.1 Universal Analytics - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-65747051-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<!-- END GADWP Universal Analytics -->
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-65747051-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+</head>
+<body class="home page-template page-template-template-homepage page-template-template-homepage-php page page-id-40 zh none">
+
+
+
+<div class="page-loader">
+	<img src="http://www.vos.org.tw/wp-content/themes/newsmag/img/loader.gif" alt="">
+</div> 
+
+
+<div class="main-wrap container">
+
+
+		<header class="site-header" role="banner">
+			
+			
+			<div class="col-sm-9">
+				<div class="h-entry">
+<img src="http://www.vos.org.tw/wp-content/uploads/2015/05/VOS-WebSiteLogo.jpg" alt="VOS" width="400" height="80" class="alignnone size-full wp-image-420" />
+				</div> <!-- h-entry -->
+			</div> <!-- col-sm-9 -->
+
+			<div class="col-sm-6">				
+				<div class="h-entry">
+<img src="http://www.vos.org.tw/wp-content/uploads/2015/07/slogon0702.jpg" alt="VOS-WebSiteSlogon" />		
+				</div> <!-- h-entry -->
+			</div> <!-- col-sm-6-->
+
+
+			<div class="menu-justify-wrap">
+				<div class="menu-justify visible-xs">
+					<i class="fa fa-align-justify"></i>
+				</div>
+			</div>			
+
+
+
+			<nav class="primary-navigation col-sm-12"><ul id="menu-top-menu" class="nav navbar-nav"><li id="menu-item-164" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-40 current_page_item menu-item-164"><a href="http://www.vos.org.tw/">首頁</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="http://www.vos.org.tw/?page_id=6">認識我們</a></li>
+<li id="menu-item-899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-899"><a href="http://www.vos.org.tw/?page_id=8">感恩消息代禱</a></li>
+<li id="menu-item-111" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-111"><a href="http://www.vos.org.tw/?page_id=10">支持與奉獻</a></li>
+<li id="menu-item-104" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-104"><a href="http://www.vos.org.tw/?page_id=13">線上留言</a></li>
+<li id="menu-item-312" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-312"><a href="http://www.vos.org.tw/?cat=16">文章選集</a></li>
+<li id="menu-item-1110" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1110"><a href="http://www.vos.org.tw/?page_id=17">CD / 書籍介紹</a></li>
+<li id="menu-item-105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-105"><a href="http://www.vos.org.tw/?page_id=82">聯絡我們</a></li>
+<li id="menu-item-107" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-107"><a href="http://www.vos.org.tw/?page_id=19">English</a></li>
+</ul></nav>
+
+		</header>		
+<li id="newsmag_widget-7" class="widget newsmag_builder">					
+					<section class="primary-slider col-sm-15" role="slider">	
+									
+						<div class="slider swipe">
+
+						
+							<div class="h-entry">
+
+								<div class="image">
+									<a href="http://www.vos.org.tw/?p=20328" class="u-photo">
+										<img width="1024" height="634" src="http://www.vos.org.tw/wp-content/uploads/2017/03/AD-VOS-20170321.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2017/03/AD-VOS-20170321.jpg 1024w, http://www.vos.org.tw/wp-content/uploads/2017/03/AD-VOS-20170321-300x186.jpg 300w, http://www.vos.org.tw/wp-content/uploads/2017/03/AD-VOS-20170321-552x342.jpg 552w, http://www.vos.org.tw/wp-content/uploads/2017/03/AD-VOS-20170321-54x33.jpg 54w" sizes="(max-width: 1024px) 100vw, 1024px" />									</a>
+								</div> <!-- end image -->
+
+								<div class="slider-title-wrap">
+												
+									<h3 class="entry-title">
+										<a href="http://www.vos.org.tw/?p=20328" class="u-url">2017年台北青年聖經講座預告</a>
+									</h3>
+												
+								</div> <!-- end slider-title-wrap -->
+
+							</div> <!-- end h-entry -->
+
+							
+							<div class="h-entry">
+
+								<div class="image">
+									<a href="http://www.vos.org.tw/?p=18903" class="u-photo">
+										<img width="1024" height="634" src="http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS-2016122901.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS-2016122901.jpg 1024w, http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS-2016122901-300x186.jpg 300w, http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS-2016122901-552x342.jpg 552w, http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS-2016122901-54x33.jpg 54w" sizes="(max-width: 1024px) 100vw, 1024px" />									</a>
+								</div> <!-- end image -->
+
+								<div class="slider-title-wrap">
+												
+									<h3 class="entry-title">
+										<a href="http://www.vos.org.tw/?p=18903" class="u-url">喜迎新年！重獲信心、希望</a>
+									</h3>
+												
+								</div> <!-- end slider-title-wrap -->
+
+							</div> <!-- end h-entry -->
+
+							
+							<div class="h-entry">
+
+								<div class="image">
+									<a href="http://www.vos.org.tw/?p=18611" class="u-photo">
+										<img width="1024" height="634" src="http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS20161212.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS20161212.jpg 1024w, http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS20161212-300x186.jpg 300w, http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS20161212-552x342.jpg 552w, http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS20161212-54x33.jpg 54w" sizes="(max-width: 1024px) 100vw, 1024px" />									</a>
+								</div> <!-- end image -->
+
+								<div class="slider-title-wrap">
+												
+									<h3 class="entry-title">
+										<a href="http://www.vos.org.tw/?p=18611" class="u-url">青年聖經講座/台北/2016/以賽亞書一瞥-全本聖經的縮影</a>
+									</h3>
+												
+								</div> <!-- end slider-title-wrap -->
+
+							</div> <!-- end h-entry -->
+
+							
+							<div class="h-entry">
+
+								<div class="image">
+									<a href="http://www.vos.org.tw/?p=18460" class="u-photo">
+										<img width="1024" height="634" src="http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS.jpg 1024w, http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS-300x186.jpg 300w, http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS-552x342.jpg 552w, http://www.vos.org.tw/wp-content/uploads/2016/12/AD-VOS-54x33.jpg 54w" sizes="(max-width: 1024px) 100vw, 1024px" />									</a>
+								</div> <!-- end image -->
+
+								<div class="slider-title-wrap">
+												
+									<h3 class="entry-title">
+										<a href="http://www.vos.org.tw/?p=18460" class="u-url">中國聽友若有感動為救恩之聲奉獻</a>
+									</h3>
+												
+								</div> <!-- end slider-title-wrap -->
+
+							</div> <!-- end h-entry -->
+
+							
+							<div class="h-entry">
+
+								<div class="image">
+									<a href="http://www.vos.org.tw/?p=17714" class="u-photo">
+										<img width="1024" height="634" src="http://www.vos.org.tw/wp-content/uploads/2016/10/AD-VOS-20161026.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2016/10/AD-VOS-20161026.jpg 1024w, http://www.vos.org.tw/wp-content/uploads/2016/10/AD-VOS-20161026-300x186.jpg 300w, http://www.vos.org.tw/wp-content/uploads/2016/10/AD-VOS-20161026-552x342.jpg 552w, http://www.vos.org.tw/wp-content/uploads/2016/10/AD-VOS-20161026-54x33.jpg 54w" sizes="(max-width: 1024px) 100vw, 1024px" />									</a>
+								</div> <!-- end image -->
+
+								<div class="slider-title-wrap">
+												
+									<h3 class="entry-title">
+										<a href="http://www.vos.org.tw/?p=17714" class="u-url">最新推出北歐挪威名演奏家塔克</a>
+									</h3>
+												
+								</div> <!-- end slider-title-wrap -->
+
+							</div> <!-- end h-entry -->
+
+							
+							<div class="h-entry">
+
+								<div class="image">
+									<a href="http://www.vos.org.tw/?p=17201" class="u-photo">
+										<img width="1024" height="634" src="http://www.vos.org.tw/wp-content/uploads/2016/09/AD-VOS-20160926.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2016/09/AD-VOS-20160926.jpg 1024w, http://www.vos.org.tw/wp-content/uploads/2016/09/AD-VOS-20160926-300x186.jpg 300w, http://www.vos.org.tw/wp-content/uploads/2016/09/AD-VOS-20160926-552x342.jpg 552w, http://www.vos.org.tw/wp-content/uploads/2016/09/AD-VOS-20160926-54x33.jpg 54w" sizes="(max-width: 1024px) 100vw, 1024px" />									</a>
+								</div> <!-- end image -->
+
+								<div class="slider-title-wrap">
+												
+									<h3 class="entry-title">
+										<a href="http://www.vos.org.tw/?p=17201" class="u-url">如何教導律法與福音</a>
+									</h3>
+												
+								</div> <!-- end slider-title-wrap -->
+
+							</div> <!-- end h-entry -->
+
+							
+							<div class="h-entry">
+
+								<div class="image">
+									<a href="http://www.vos.org.tw/?p=15599" class="u-photo">
+										<img width="1024" height="634" src="http://www.vos.org.tw/wp-content/uploads/AD-VOS.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/AD-VOS.jpg 1024w, http://www.vos.org.tw/wp-content/uploads/AD-VOS-300x186.jpg 300w, http://www.vos.org.tw/wp-content/uploads/AD-VOS-552x342.jpg 552w, http://www.vos.org.tw/wp-content/uploads/AD-VOS-54x33.jpg 54w" sizes="(max-width: 1024px) 100vw, 1024px" />									</a>
+								</div> <!-- end image -->
+
+								<div class="slider-title-wrap">
+												
+									<h3 class="entry-title">
+										<a href="http://www.vos.org.tw/?p=15599" class="u-url">廣播劇戴德生傳</a>
+									</h3>
+												
+								</div> <!-- end slider-title-wrap -->
+
+							</div> <!-- end h-entry -->
+
+							
+							<div class="h-entry">
+
+								<div class="image">
+									<a href="http://www.vos.org.tw/?p=11674" class="u-photo">
+										<img width="1024" height="634" src="http://www.vos.org.tw/wp-content/uploads/2015/11/AD-VOSP10799.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/11/AD-VOSP10799.jpg 1024w, http://www.vos.org.tw/wp-content/uploads/2015/11/AD-VOSP10799-300x186.jpg 300w, http://www.vos.org.tw/wp-content/uploads/2015/11/AD-VOSP10799-552x342.jpg 552w, http://www.vos.org.tw/wp-content/uploads/2015/11/AD-VOSP10799-54x33.jpg 54w" sizes="(max-width: 1024px) 100vw, 1024px" />									</a>
+								</div> <!-- end image -->
+
+								<div class="slider-title-wrap">
+												
+									<h3 class="entry-title">
+										<a href="http://www.vos.org.tw/?p=11674" class="u-url">真理之光講道信息系列&#8211;陳農瑞牧師/哥林多前書</a>
+									</h3>
+												
+								</div> <!-- end slider-title-wrap -->
+
+							</div> <!-- end h-entry -->
+
+							
+							
+							
+						</div> <!-- end slider swipe -->		
+								
+					</section>
+
+			</li>
+<li id="newsmag_widget-11" class="widget newsmag_builder">
+				<section class="featured-category col-sm-14">
+							
+					<div class="col-sm-12">
+										
+						<article class="h-entry post-148 post type-post status-publish format-standard has-post-thumbnail hentry category-13" id="post-148">
+											
+							<header class="entry-header">
+												
+								<h4 class="entry-title"><a href="http://www.vos.org.tw/?p=148" class="u-url" rel="bookmark">節目總覽</a></h4>							
+
+							</header>
+
+							<div class="entry-media">
+													
+								<a href="http://www.vos.org.tw/?p=148" class="u-url">
+									<img width="825" height="510" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS-AD-2015050525.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS-AD-2015050525.jpg 825w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOS-AD-2015050525-300x185.jpg 300w" sizes="(max-width: 825px) 100vw, 825px" />								</a>
+
+							</div> <!-- entry-media -->
+
+						</article>
+
+					</div> <!-- end col-sm-12 -->					
+
+				</section> <!-- end featured-category -->
+
+				
+				<section class="featured-category col-sm-14">
+							
+					<div class="col-sm-12">
+										
+						<article class="h-entry post-121 post type-post status-publish format-standard has-post-thumbnail hentry category-13 tag-144" id="post-121">
+											
+							<header class="entry-header">
+												
+								<h4 class="entry-title"><a href="http://www.vos.org.tw/?p=121" class="u-url" rel="bookmark">福音廣播宣教事工介紹</a></h4>							
+
+							</header>
+
+							<div class="entry-media">
+													
+								<a href="http://www.vos.org.tw/?p=121" class="u-url">
+									<img width="825" height="510" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS_HOME_AIR.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS_HOME_AIR.jpg 825w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOS_HOME_AIR-300x185.jpg 300w" sizes="(max-width: 825px) 100vw, 825px" />								</a>
+
+							</div> <!-- entry-media -->
+
+						</article>
+
+					</div> <!-- end col-sm-12 -->					
+
+				</section> <!-- end featured-category -->
+
+				
+				
+				</li>
+<li id="newsmag_widget-8" class="widget newsmag_builder">
+				</li>
+<li id="newsmag_widget-5" class="widget newsmag_builder">
+				<section class="content-main" role="main">
+				<div class="col-sm-15">	
+
+				<div class="category-box col-sm-12">
+
+					<h3 class="p-category">
+						
+						<span>精選節目 馬上聽</span>
+
+											</h3>
+
+					<div class="main-category">
+						
+						<ul class="clearfix">
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-5814 post type-post status-publish format-standard has-post-thumbnail hentry category-children-programs category-14 tag-45" id="post-5814">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=5814">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON07.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON07.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON07-286x300.jpg 286w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-202 post type-post status-publish format-standard has-post-thumbnail hentry category-life-witnessing-programs category-14 tag-52 tag-172 tag-169 tag-170 tag-171" id="post-202">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=202">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON01.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON01.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON01-286x300.jpg 286w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-200 post type-post status-publish format-standard has-post-thumbnail hentry category-family-programs category-14 tag-164" id="post-200">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=200">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON02.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON02.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON02-286x300.jpg 286w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-198 post type-post status-publish format-standard has-post-thumbnail hentry category-children-programs category-14 tag-45" id="post-198">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=198">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON03.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON03.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON03-286x300.jpg 286w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-196 post type-post status-publish format-standard has-post-thumbnail hentry category-14 category-youth-programs tag-88 tag-qa tag-130 tag-a tag-110 tag-82 tag-151 tag-87 tag-50" id="post-196">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=196">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON04.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON04.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON04-286x300.jpg 286w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-194 post type-post status-publish format-standard has-post-thumbnail hentry category-14 category-youth-programs tag-88 tag-qa tag-130 tag-a tag-110 tag-82 tag-151 tag-87 tag-50" id="post-194">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=194">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/HN-prayericon.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/HN-prayericon.jpg 417w, http://www.vos.org.tw/wp-content/uploads/HN-prayericon-286x300.jpg 286w, http://www.vos.org.tw/wp-content/uploads/HN-prayericon-326x342.jpg 326w, http://www.vos.org.tw/wp-content/uploads/HN-prayericon-51x54.jpg 51w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-192 post type-post status-publish format-standard has-post-thumbnail hentry category-truth-teaching-programs category-14 tag-159 tag-66" id="post-192">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=192">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON06.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON06.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOSICON06-286x300.jpg 286w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-623 post type-post status-publish format-standard has-post-thumbnail hentry category-14 category-youth-programs tag-88 tag-qa tag-130 tag-a tag-110 tag-82 tag-151 tag-87 tag-50" id="post-623">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=623">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/04/ivyicon4.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/ivyicon4.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/04/ivyicon4-286x300.jpg 286w, http://www.vos.org.tw/wp-content/uploads/2015/04/ivyicon4-326x342.jpg 326w, http://www.vos.org.tw/wp-content/uploads/2015/04/ivyicon4-51x54.jpg 51w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+							
+
+						</ul>
+
+					</div> <!-- end main-category -->
+					
+
+				</div> <!-- end category-box -->
+
+				</div> <!-- end col-sm-8 -->
+				</section> <!-- end content-main -->
+
+				<!-- end col-sm-8 -->
+
+				
+				</li>
+<li id="newsmag_widget-10" class="widget newsmag_builder">
+				<section class="featured-category col-sm-14">
+							
+					<div class="col-sm-12">
+										
+						<article class="h-entry post-119 post type-post status-publish format-standard has-post-thumbnail hentry category-13 category-7 tag-146" id="post-119">
+											
+							<header class="entry-header">
+												
+								<h4 class="entry-title"><a href="http://www.vos.org.tw/?p=119" class="u-url" rel="bookmark">雲彩飛揚福音見證宣教事工介紹</a></h4>							
+
+							</header>
+
+							<div class="entry-media">
+													
+								<a href="http://www.vos.org.tw/?p=119" class="u-url">
+									<img width="825" height="510" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS_HOME_CLOUD.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS_HOME_CLOUD.jpg 825w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOS_HOME_CLOUD-300x185.jpg 300w" sizes="(max-width: 825px) 100vw, 825px" />								</a>
+
+							</div> <!-- entry-media -->
+
+						</article>
+
+					</div> <!-- end col-sm-12 -->					
+
+				</section> <!-- end featured-category -->
+
+				
+				
+				</li>
+<li id="newsmag_widget-9" class="widget newsmag_builder">
+				<section class="featured-category col-sm-14">
+							
+					<div class="col-sm-12">
+										
+						<article class="h-entry post-117 post type-post status-publish format-standard has-post-thumbnail hentry category-13 category-9 tag-145" id="post-117">
+											
+							<header class="entry-header">
+												
+								<h4 class="entry-title"><a href="http://www.vos.org.tw/?p=117" class="u-url" rel="bookmark">救恩聖經函授學校介紹</a></h4>							
+
+							</header>
+
+							<div class="entry-media">
+													
+								<a href="http://www.vos.org.tw/?p=117" class="u-url">
+									<img width="825" height="510" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS_HOME_BIBLETEACH.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS_HOME_BIBLETEACH.jpg 825w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOS_HOME_BIBLETEACH-300x185.jpg 300w" sizes="(max-width: 825px) 100vw, 825px" />								</a>
+
+							</div> <!-- entry-media -->
+
+						</article>
+
+					</div> <!-- end col-sm-12 -->					
+
+				</section> <!-- end featured-category -->
+
+				
+				
+				</li>
+<li id="newsmag_widget-12" class="widget newsmag_builder">
+				<section class="content-main" role="main">
+				<div class="col-sm-15">	
+
+				<div class="category-box col-sm-12">
+
+					<h3 class="p-category">
+						
+						<span>講道 ／ 聖樂</span>
+
+											</h3>
+
+					<div class="main-category">
+						
+						<ul class="clearfix">
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-651 post type-post status-publish format-standard has-post-thumbnail hentry category-147 category-sermons tag-161 tag-159 tag-66 tag-160" id="post-651">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=651">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/6-2-1icon.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/6-2-1icon.jpg 417w, http://www.vos.org.tw/wp-content/uploads/6-2-1icon-286x300.jpg 286w, http://www.vos.org.tw/wp-content/uploads/6-2-1icon-326x342.jpg 326w, http://www.vos.org.tw/wp-content/uploads/6-2-1icon-51x54.jpg 51w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-5751 post type-post status-publish format-standard has-post-thumbnail hentry category-147 category-sermons category-61 tag-173 tag-174 tag-175 tag-176 tag-177 tag-178 tag-179 tag-180 tag-181 tag-182 tag-2011- tag-184 tag-185 tag-2014-" id="post-5751">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=5751">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/05/VOS-P647.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/05/VOS-P647.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/05/VOS-P647-286x300.jpg 286w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-653 post type-post status-publish format-standard has-post-thumbnail hentry category-67 category-147 tag-68 tag-95" id="post-653">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=653">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/05/VOS-P653.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/05/VOS-P653.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/05/VOS-P653-286x300.jpg 286w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+						
+							<li class="col-sm-3">
+
+								<article class="h-entry post-608 post type-post status-publish format-standard has-post-thumbnail hentry category-147 category-49 category-youth-programs tag-qa" id="post-608">
+									
+									<div class="entry-content entry-media">
+
+										<a href="http://www.vos.org.tw/?p=608">
+											<img width="417" height="438" src="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS-P608.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/2015/04/VOS-P608.jpg 417w, http://www.vos.org.tw/wp-content/uploads/2015/04/VOS-P608-286x300.jpg 286w" sizes="(max-width: 417px) 100vw, 417px" />										</a>
+
+									</div> <!-- end entry-content -->
+
+								</article> <!-- end h-entry -->
+								
+							</li>	
+
+							
+
+						</ul>
+
+					</div> <!-- end main-category -->
+					
+
+				</div> <!-- end category-box -->
+
+				</div> <!-- end col-sm-8 -->
+				</section> <!-- end content-main -->
+
+				<!-- end col-sm-8 -->
+
+				
+				</li>
+<li id="newsmag_widget-13" class="widget newsmag_builder">
+				<section class="featured-category col-sm-14">
+							
+					<div class="col-sm-12">
+										
+						<article class="h-entry post-8240 post type-post status-publish format-standard has-post-thumbnail hentry category-vos-youtube tag-vos-youtube" id="post-8240">
+											
+							<header class="entry-header">
+												
+								<h4 class="entry-title"><a href="http://www.vos.org.tw/?p=8240" class="u-url" rel="bookmark">VOS YouTube 部分已播節目重溫</a></h4>							
+
+							</header>
+
+							<div class="entry-media">
+													
+								<a href="http://www.vos.org.tw/?p=8240" class="u-url">
+									<img width="1024" height="633" src="http://www.vos.org.tw/wp-content/uploads/VOS-YouTube.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="http://www.vos.org.tw/wp-content/uploads/VOS-YouTube.jpg 1024w, http://www.vos.org.tw/wp-content/uploads/VOS-YouTube-300x185.jpg 300w, http://www.vos.org.tw/wp-content/uploads/VOS-YouTube-553x342.jpg 553w, http://www.vos.org.tw/wp-content/uploads/VOS-YouTube-54x33.jpg 54w" sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
+
+							</div> <!-- entry-media -->
+
+						</article>
+
+					</div> <!-- end col-sm-12 -->					
+
+				</section> <!-- end featured-category -->
+
+				
+				
+				</li>
+
+
+<aside class="main-footer col-sm-12" role="complemantary">
+
+			
+				<div class="main-footer-line"></div>
+
+						
+
+			<div class="col-sm-3">
+				
+				<div class="widget">
+
+					<div class="widget"><h3 class="widget-title">語言切換</h3>
+<div id="wpcc_widget_inner"><!--WPCC_NC_START-->
+	<span id="wpcc_original_link" class="wpcc_current_lang" ><a class="wpcc_link" href="http://www.vos.org.tw/wp-content/uploads/2-6-5ypqa-89.mp3/" title="正體">正體</a></span>
+	<span id="wpcc_zh-cn_link" class="wpcc_lang" ><a class="wpcc_link" rel="nofollow" href="http://www.vos.org.tw/wp-content/uploads/2-6-5ypqa-89.mp3/?variant=zh-cn" title="简体" >简体</a></span>
+<!--WPCC_NC_END--></div>
+</div>		
+
+				</div>			
+
+			</div> <!-- end col-sm-3 -->
+
+
+			<div class="col-sm-3">
+				
+				<div class="widget">
+					<div class="widget"><h3 class="widget-title">資料下載</h3><div class="textwidget"><p><a href="http://www.vos.org.tw/?page_id=15864" target="_blank">廣播時間表</a></p>
+<p><a href="http://www.vos.org.tw/wp-content/uploads/0707ccarddonation.pdf" target="_blank">信用卡傳真單</a></p>
+<p><a href="http://www.vos.org.tw/wp-content/uploads/0707postoffice.pdf" target="_blank">奉獻劃撥單</a></p>
+</div></div>				</div>
+
+			</div> <!-- end col-sm-3 -->
+
+
+			<div class="col-sm-3">
+				
+				<div class="widget">
+				<div class="widget"><h3 class="widget-title">連結機構</h3><div class="textwidget"><p><a href="http://www.vos.org.tw/?p=6710" target="_blank">國內合作電台</a></p>
+<p><a href="http://www.vos.org.tw/?p=6719" target="_blank">國外合作電台</a></p>
+<p><a href="http://www.vos.org.tw/?p=6734" target="_blank">國外支持機構</a></p>
+</div></div>					
+				</div>
+
+			</div> <!-- end col-sm-3 -->
+
+
+			<div class="col-sm-3">
+				
+				<div class="widget">
+				<div class="widget"><h3 class="widget-title">Connect With VOS</h3><div class="textwidget"><table>
+<tbody>
+<tr>
+<td><a href="https://www.facebook.com/pages/%E6%95%91%E6%81%A9%E4%B9%8B%E8%81%B2/820348791389284?ref=hl" target="_blank"><img class="alignnone size-full wp-image-437" src="http://www.vos.org.tw/wp-content/uploads/2015/03/VOS-FBLOGO.jpg" alt="VOS-FBLOGO" width="50" height="80" /></a></td>
+<td><a href="http://www.tudou.com/home/_331655033" target="_blank"><img class="alignnone size-full wp-image-438" src="http://www.vos.org.tw/wp-content/uploads/2015/03/VOS-TUDOLOGO.jpg" alt="VOS-TUDOLOGO" width="50" height="80" /></a></td>
+<td><a href="https://www.youtube.com/user/VOS197416" target="_blank"><img class="alignnone size-full wp-image-440" src="http://www.vos.org.tw/wp-content/uploads/2015/03/VOS-YOUTUBELOGO.jpg" alt="VOS-YOUTUBELOGO" width="50" height="80" /></a></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div></div>					
+				</div>
+
+			</div> <!-- end col-sm-3 -->
+
+		</aside> <!-- end main-footer -->
+
+<footer class="site-footer col-sm-12" role="contentinfo">
+
+			
+			<div class="footer-line"></div>		
+			
+			<div class="col-sm-12">
+				
+				<span class="p-text">
+				<div>救恩之聲廣播中心 Voice of Salvation ©  台北市郵政信箱44-80號</div>
+<div>聯絡電話：+886-2-27541144　傳真電話：+886-2-27557822　電子信箱：vos1974@gmail.com</div> 
+				網站建置 <a href='http://www.jme.tw' target="_blank" rel="generator">杰米網站營運中心</a></span>
+				<span class="sep">
+			</div> <!-- end col-sm-12 -->
+
+		</footer>
+
+	</div> <!-- end main-wrap -->	
+
+	
+	<div class="go-top-button">
+		<i class="fa fa-angle-up"></i>
+	</div>
+
+	<div id="wpcp-error-message" class="msgmsg-box-wpcp warning-wpcp hideme"><span>error: </span>Content is protected !!</div>
+	<script>
+	var timeout_result;
+	function show_wpcp_message(smessage)
+	{
+		if (smessage !== "")
+			{
+			var smessage_text = '<span>Alert: </span>'+smessage;
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, 3000);
+			}
+	}
+	function hide_message()
+	{
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+	</script>
+	<style type="text/css">
+	#wpcp-error-message {
+	    direction: ltr;
+	    text-align: center;
+	    transition: opacity 900ms ease 0s;
+	    z-index: 99999999;
+	}
+	.hideme {
+    	opacity:0;
+    	visibility: hidden;
+	}
+	.showme {
+    	opacity:1;
+    	visibility: visible;
+	}
+	.msgmsg-box-wpcp {
+		border-radius: 10px;
+		color: #555;
+		font-family: Tahoma;
+		font-size: 11px;
+		margin: 10px;
+		padding: 10px 36px;
+		position: fixed;
+		width: 255px;
+		top: 50%;
+  		left: 50%;
+  		margin-top: -10px;
+  		margin-left: -130px;
+  		-webkit-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		-moz-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+	}
+	.msgmsg-box-wpcp span {
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+	.error-wpcp {		background:#ffecec url('http://www.vos.org.tw/wp-content/plugins/wp-content-copy-protector/images/error.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.success {
+		background:#e9ffd9 url('http://www.vos.org.tw/wp-content/plugins/wp-content-copy-protector/images/success.png') no-repeat 10px 50%;
+		border:1px solid #a6ca8a;
+	}
+	.warning-wpcp {
+		background:#ffecec url('http://www.vos.org.tw/wp-content/plugins/wp-content-copy-protector/images/warning.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.notice {
+		background:#e3f7fc url('http://www.vos.org.tw/wp-content/plugins/wp-content-copy-protector/images/notice.png') no-repeat 10px 50%;
+		border:1px solid #8ed9f6;
+	}
+    </style>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.7'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-includes/js/comment-reply.min.js?ver=4.7.5'></script>
+<script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?v=3.exp&#038;sensor=false&#038;ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/smoothscroll.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/slick.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/jquery.fitvids.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-content/themes/newsmag/js/newsmag-custom.js?ver=4.7.5'></script>
+<script type='text/javascript' src='http://www.vos.org.tw/wp-includes/js/wp-embed.min.js?ver=4.7.5'></script>
+</body>
+</html>
